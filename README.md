@@ -14,7 +14,7 @@ Rules:
 Learning tasks
 ======
 
-1. Python #1 - Operators, Variables, Data Types, Conditions
-2. Python #2 - Cycles, Rows, Lists
-3. Python #3 - Functions, Dictionaries, File Input/Output
-4. Python #4 - Modules, Libraries
+Python #1 - Operators, Variables, Data Types, Conditions
+Python #2 - Cycles, Rows, Lists
+Python #3 - Functions, Dictionaries, File Input/Output
+Python #4 - Modules, Libraries
