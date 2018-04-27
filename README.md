@@ -1,8 +1,7 @@
 Python 3.6
 ======
 
-Repository for SUSC Python Community
-======
+***Repository for SUSC Python Community***
 
 ## Rules:
 
