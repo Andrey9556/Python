@@ -1,7 +1,7 @@
 Python 3.6
 ======
 
-***Repository for SUSC Python Community***
+***Репозиторий создан для доступа к практическим заданиям курса по Python 3.x***
 
 
 Learning tasks
