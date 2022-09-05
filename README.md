@@ -14,3 +14,4 @@ Learning tasks
 
 ## Middle lvl  ---->  [Go to folder](https://github.com/Andrey9556/Python/tree/master/Middle%20lvl)
 ### Coming soon
+> В Python 3.10 добавили Switch-case, можно сделать несколько задач для свичей
